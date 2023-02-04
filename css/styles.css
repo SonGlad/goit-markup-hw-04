@@ -85,7 +85,7 @@ p{
 /* Header */
 
 .header{
-    background: var(--color-white); 
+    background-color: var(--color-white); 
     border-bottom: 1px solid #E7E9FC;
 }
 .header-container{
@@ -151,7 +151,7 @@ p{
 /* Effective solution sections */
 
 .main-effective-section{
-    background: var(--color-navy-blue);
+    background-color: var(--color-navy-blue);
     padding: 188px 0;
 }
 .effective-section-titel{
@@ -166,7 +166,7 @@ p{
     margin-right: auto;
 }
 .button{
-    background: var(--color-iris);
+    background-color: var(--color-iris);
     cursor: pointer;
     letter-spacing: 0.04em;
     font-size: 16px;
@@ -185,13 +185,13 @@ p{
 .button:hover,
 .button:focus,
 .button:active{
-    background: var(--color-ocean);
+    background-color: var(--color-ocean);
 }
 
 /* Startegy section */
 
 .main-strategy-section{
-    background: var(--color-white);
+    background-color: var(--color-white);
 }
 .strategy-section-desc{
     display: flex;
@@ -215,7 +215,7 @@ p{
 /* what are we doing section */
 
 .main-what-section{
-    background: var(--color-white);
+    background-color: var(--color-white);
     display: flex;
     text-align: center;
     justify-content: space-between;
@@ -240,7 +240,7 @@ p{
 /* Our team section */
 
 .main-team-section{
-    background: var(--color-cloud);
+    background-color: var(--color-cloud);
     display: flex;
     text-align: left;
     justify-content: space-between;
@@ -262,7 +262,7 @@ p{
     gap: 24px;
 }
 .team-desc{
-    background: var(--color-white);
+    background-color: var(--color-white);
     max-width: 264px;
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
     border-radius: 0px 0px 4px 4px;
@@ -288,7 +288,7 @@ p{
 /* Portfolio */
 
 .portfolio{
-    background: var(--color-white);
+    background-color: var(--color-white);
     padding-top: 96px;
     padding-bottom: 120px;
 }
@@ -330,7 +330,7 @@ p{
     row-gap: 48px;
 }
 .card-sec{
-    background: var(--color-white); 
+    background-color: var(--color-white); 
     max-width: 360px; 
     border: 1px solid #E7E9FC;
 }
@@ -355,7 +355,7 @@ p{
 /* Footer */
 
 .footer{
-    background: var(--color-navy-blue);
+    background-color: var(--color-navy-blue);
     padding: 100px 0;
 }
 .footer-link{
